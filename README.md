@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/muodilo/muodilo/output/snake.svg" alt="Snake animation" />
+
 
 ###
